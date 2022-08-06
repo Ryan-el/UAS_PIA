@@ -1,6 +1,6 @@
-# flutter_application_2
+# UAS-PIA Ryan Natanael G - 2019114004
 
-A new Flutter project.
+Flutter To Do List
 
 ## Getting Started
 
